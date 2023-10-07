@@ -1,7 +1,7 @@
 import os
 import shutil
 import sys
-import zipfile, tarfile, gzip
+import zipfile, tarfile, gzip, rarfile
 from concurrent.futures import ThreadPoolExecutor
 
 
